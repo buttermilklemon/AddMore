@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="iOS/AddingMore.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone4s.8.2" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AddingMore/MessagePage.cs">
+    <Files>
+      <File FileName="AddingMore/MessagePage.cs" Line="38" Column="1" />
+      <File FileName="AddingMore/Message.cs" Line="8" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

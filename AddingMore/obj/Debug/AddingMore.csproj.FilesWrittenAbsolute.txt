@@ -1,0 +1,17 @@
+/Users/PFJ/Developer/Book2/Chapter 8/AddingMore/AddingMore/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/PFJ/Developer/Book2/Chapter 8/AddingMore/AddingMore/bin/Debug/Xamarin.Forms.Core.dll
+/Users/PFJ/Developer/Book2/Chapter 8/AddingMore/AddingMore/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/PFJ/Developer/Book2/Chapter 8/AddingMore/AddingMore/bin/Debug/AddingMore.dll.mdb
+/Users/PFJ/Developer/Book2/Chapter 8/AddingMore/AddingMore/bin/Debug/AddingMore.dll
+/Users/PFJ/Developer/Book2/Chapter 8/AddingMore/AddingMore/obj/Debug/AddingMore.dll
+/Users/PFJ/Developer/Book2/Chapter 8/AddingMore/AddingMore/obj/Debug/AddingMore.dll.mdb
+/Users/PFJ/Developer/Book2/Chapter 8/AddingMore/AddingMore/bin/Debug/mscorlib.dll
+/Users/PFJ/Developer/Book2/Chapter 8/AddingMore/AddingMore/bin/Debug/System.Core.dll
+/Users/PFJ/Developer/Book2/Chapter 8/AddingMore/AddingMore/bin/Debug/System.dll
+/Users/PFJ/Developer/Book2/Chapter 8/AddingMore/AddingMore/bin/Debug/System.Linq.Queryable.dll
+/Users/PFJ/Developer/Book2/Chapter 8/AddingMore/AddingMore/bin/Debug/System.Diagnostics.Tools.dll
+/Users/PFJ/Developer/Book2/Chapter 8/AddingMore/AddingMore/bin/Debug/System.ComponentModel.EventBasedAsync.dll
+/Users/PFJ/Developer/Book2/Chapter 8/AddingMore/AddingMore/bin/Debug/System.Net.Primitives.dll
+/Users/PFJ/Developer/Book2/Chapter 8/AddingMore/AddingMore/bin/Debug/System.Net.Requests.dll
+/Users/PFJ/Developer/Book2/Chapter 8/AddingMore/AddingMore/bin/Debug/System.Net.NetworkInformation.dll
+/Users/PFJ/Developer/Book2/Chapter 8/AddingMore/AddingMore/bin/Debug/System.Text.RegularExpressions.dll
